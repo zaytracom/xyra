@@ -1,0 +1,12 @@
+{
+  "name": "xyra",
+  "version": "1.0.0",
+  "description": "Xyra package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
